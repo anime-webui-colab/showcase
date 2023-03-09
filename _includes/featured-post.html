@@ -1,0 +1,14 @@
+<article>
+  <a href="{{ site.github.url }}{{ post.url }}">
+    <div class="featured-post" {% if post.image %} style="background-image:url({{ post.image }})" {% endif %}>
+      <h2>
+        <span>
+          {{ post.title }}
+          {% if post.model_count > 1%}
+          <small> ({{post.model_count}} models) </small>
+          {% endif %}
+        </span>
+      </h2>
+    </div>
+  </a>
+</article>

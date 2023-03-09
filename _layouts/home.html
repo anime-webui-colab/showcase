@@ -1,0 +1,20 @@
+---
+layout: default
+title: Home
+---
+
+<p>
+  My cover girl is Fiyu, you will see her a lot. :)
+</p>
+
+<p>
+  All of the model banners do not use hires and are 1024x512 and roughly use the same prompts
+</p>
+
+<p>
+  If there's a label of multiple models, I am using the fave one in that set
+</p>
+
+{% for post in site.models %}
+{% include featured-post.html %}
+{% endfor %}
