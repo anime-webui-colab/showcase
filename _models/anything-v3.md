@@ -1,6 +1,6 @@
 ---
 layout: post
 title: "Anything V3"
-image: https://github.com/NUROISEA/anime-webui-colab/wiki/images/anything-v3.png
+image: https://i3.lensdump.com/i/T4M4jD.png
 model_count: 1
 ---
