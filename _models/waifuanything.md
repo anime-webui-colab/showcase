@@ -1,6 +1,6 @@
 ---
 layout: post
 title: "WaifuAnything"
-image: https://i3.lensdump.com/i/T4L9gH.png
+image: https://lh3.googleusercontent.com/d/1T-SEa-fGphTSeR-_-wV8ix1x5EtaecKq
 model_count: 1
 ---
