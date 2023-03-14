@@ -4,3 +4,17 @@ title: "HDDream-G"
 image: https://lh3.googleusercontent.com/d/1oH3qjyfV8anYPJ4CbLK93FzpinHB-upa
 model_count: 1
 ---
+
+<details><summary>Cover prompt</summary>
+<pre>
+.
+</pre>
+</details>
+<details><summary>Links</summary>
+
+</details>
+<details><summary>My thoughts about this model</summary>
+
+</details>
+
+## Model Comparisons

@@ -4,3 +4,17 @@ title: "Elysium Anime"
 image: https://lh3.googleusercontent.com/d/106w0q6QWi3C1Re1sKf0tHBunQpJqRRfz
 model_count: 3
 ---
+
+<details><summary>Cover prompt</summary>
+<pre>
+.
+</pre>
+</details>
+<details><summary>Links</summary>
+
+</details>
+<details><summary>My thoughts about this model</summary>
+
+</details>
+
+## Model Comparisons

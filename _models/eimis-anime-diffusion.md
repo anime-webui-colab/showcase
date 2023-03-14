@@ -4,3 +4,17 @@ title: "Eimis Anime Diffusion"
 image: https://lh3.googleusercontent.com/d/1T6qX3YfOMv1aqjTosTypd7YNtOFOGDvp
 model_count: 1
 ---
+
+<details><summary>Cover prompt</summary>
+<pre>
+.
+</pre>
+</details>
+<details><summary>Links</summary>
+
+</details>
+<details><summary>My thoughts about this model</summary>
+
+</details>
+
+## Model Comparisons

@@ -4,3 +4,17 @@ title: "Everything"
 image: https://lh3.googleusercontent.com/d/1qRE4ypBhH5UaIPdYRsxtLTdjEeCTD8g_
 model_count: 3
 ---
+
+<details><summary>Cover prompt</summary>
+<pre>
+.
+</pre>
+</details>
+<details><summary>Links</summary>
+
+</details>
+<details><summary>My thoughts about this model</summary>
+
+</details>
+
+## Model Comparisons
