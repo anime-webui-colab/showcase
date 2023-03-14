@@ -4,3 +4,17 @@ title: "Ligne Claire"
 image: https://lh3.googleusercontent.com/d/1eFc0XKCBPduUg1taWyYEwdR3X5k3r0fg
 model_count: 1
 ---
+
+<details><summary>Cover prompt</summary>
+<pre>
+.
+</pre>
+</details>
+<details><summary>Links</summary>
+
+</details>
+<details><summary>My thoughts about this model</summary>
+
+</details>
+
+## Model Comparisons

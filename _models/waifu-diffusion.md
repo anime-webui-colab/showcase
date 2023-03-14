@@ -1,8 +1,20 @@
 ---
-
 layout: post
 title: "Waifu Diffusion"
 image: https://github.com/NUROISEA/anime-webui-colab/wiki/images/waifu_diffusion/wd14e2.png
 model_count: 4
-
 ---
+
+<details><summary>Cover prompt</summary>
+<pre>
+.
+</pre>
+</details>
+<details><summary>Links</summary>
+
+</details>
+<details><summary>My thoughts about this model</summary>
+
+</details>
+
+## Model Comparisons

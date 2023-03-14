@@ -1,17 +1,8 @@
 ---
 layout: default
 ---
+{% if page.image %}
+<img src="{{ page.image }}">
+{% endif %}
 
-<div class="post-content">
-  <h1>
-    {{ page.title }}
-  </h1>
-  {% if page.image %}
-  <div class="featured-image">
-    <img src="{{ page.image }}">
-  </div>
-  {% endif %}
-  <article>
-    {{ content }}
-  </article>
-</div>
+{{ content }}
