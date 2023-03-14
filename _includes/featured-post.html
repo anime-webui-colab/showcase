@@ -1,14 +1,13 @@
 <article>
-  <a href="{{ site.github.url }}{{ post.url }}">
-    <div class="featured-post" {% if post.image %} style="background-image:url({{ post.image }})" {% endif %}>
-      <h2>
-        <span>
-          {{ post.title }}
-          {% if post.model_count > 1%}
-          <br><small> ({{post.model_count}} models) </small>
-          {% endif %}
-        </span>
-      </h2>
-    </div>
-  </a>
+  <figure>
+    <a href="{{ site.github.url }}{{ post.url }}">
+      <img src="{{ post.image }}" alt="{{ post.title }} banner" style="height: 200px; width: 100%; object-fit: cover;">
+    </a>
+    <figcaption>
+      <b>{{ post.title }}</b>
+      {% if post.model_count > 1%}
+      <small> ({{post.model_count}} models) </small>
+      {% endif %}
+    </figcaption>
+  </figure>
 </article>
