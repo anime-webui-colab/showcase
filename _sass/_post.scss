@@ -1,5 +1,5 @@
 .post-content {
-  width: 1000px;
+  width: $featured-image-width;
   display: block;
   margin: 10px auto 10px;
 }
@@ -13,7 +13,7 @@
   align: middle;
   margin: 5px auto 25px;
   display: block;
-  max-width: 1000px;
+  max-width: $featured-image-width;
 }
 @media (max-width: $container-width) {
   .post-content {

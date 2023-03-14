@@ -7,9 +7,10 @@ $code-font-family: "Source Code Pro", monospace;
 
 $brand-color: black;
 
-$container-width: 1100px;
+$container-width: 900px;
 $tablet-width: 600px;
 $phone-width: 480px;
+$featured-image-width: 780px;
 
 $header-thickness: 56px;
 
@@ -26,4 +27,4 @@ $medium-color: #00AB6C;
 $codepen-color: black;
 $rss-color: #ff6600;
 
-@import "-sections-dir";
+@import "-sections-dir"; 
