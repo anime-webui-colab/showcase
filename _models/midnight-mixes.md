@@ -1,13 +1,15 @@
 ---
 layout: post
 title: "Midnight Mixes"
-image: https://lh3.googleusercontent.com/d/1T-SEa-fGphTSeR-_-wV8ix1x5EtaecKq
+image: https://lh3.googleusercontent.com/d/1zvWSvJmEnFrum9z-RTLarUrrSP5gbGdw
 model_count: 3
 ---
 
 <details><summary>Cover prompt</summary>
 <pre>
-.
+1girl, blonde hair, short hair, blue eyes, wavy hair, hair ribbon, blue ribbon, detached sleeves, portrait
+Negative prompt: (worst quality:1.4), (low quality:1.4), (monochrome:1.1)
+Steps: 20, Sampler: Euler, CFG scale: 7, Seed: 752821698, Size: 1024x512, Model: Midnight Maple, Clip skip: 2
 </pre>
 </details>
 <details><summary>Links</summary>
