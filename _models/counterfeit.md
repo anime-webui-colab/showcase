@@ -7,7 +7,9 @@ model_count: 5
 
 <details><summary>Cover prompt</summary>
 <pre>
-.
+((masterpiece,best quality)), 1girl, blonde hair, short hair, blue eyes, wavy hair, hair ribbon, blue ribbon, detached sleeves, portrait
+Negative prompt: EasyNegative, extra fingers,fewer fingers,
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 378725788, Size: 1024x512, Model: Counterfeit-V2.2, Clip skip: 2, ENSD: 31337
 </pre>
 </details>
 <details><summary>Links</summary>
