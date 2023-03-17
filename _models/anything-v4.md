@@ -16,7 +16,7 @@ Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 3513050656, Size: 1024x512, Mod
 
 </details>
 <details><summary>My thoughts about this model</summary>
-
+Successor of AnythingV3? Nah, this is based off AbyssOrangeMix2 and more models being mixed in. Although not the official continuation of AV3, the results are really nice. I prefer Anyv4 over V4.5 since it feels more consistent, but don't get me wrong, 4.5 is great! At the end of the day it comes down to your preference.
 </details>
 
 ## Model Comparisons

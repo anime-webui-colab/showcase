@@ -1,13 +1,15 @@
 ---
 layout: post
 title: "Momocha Mix"
-image: https://lh3.googleusercontent.com/d/1T-SEa-fGphTSeR-_-wV8ix1x5EtaecKq
+image: https://lh3.googleusercontent.com/d/1-cQ1BhAHnSPzdFvIsOUs1Kh8WYyVDRvl
 model_count: 1
 ---
 
 <details><summary>Cover prompt</summary>
 <pre>
-.
+masterpiece, best quality, 1girl, blonde hair, short hair, blue eyes, wavy hair, hair ribbon, blue ribbon, detached sleeves, portrait
+Negative prompt: (worst quallity, low quality:1.4)
+Steps: 20, Sampler: Euler, CFG scale: 7, Seed: 2912170054, Size: 1024x512, Model: momocha-6E7-0.315-AD-E6-0.15-WS, Clip skip: 2
 </pre>
 </details>
 <details><summary>Links</summary>

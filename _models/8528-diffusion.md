@@ -14,7 +14,7 @@ model_count: 1
 
 </details>
 <details><summary>My thoughts about this model</summary>
-
+Thick line anime model. Looks nice, sharp line art and stuff. Although this model is quite finicky at times, it would consistently produce that illustration feel (given that you have rolled a good seed with this model).
 </details>
 
 ## Model Comparisons

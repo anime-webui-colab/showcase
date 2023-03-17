@@ -16,7 +16,7 @@ Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 692996861, Size: 1024x512, Mode
 
 </details>
 <details><summary>My thoughts about this model</summary>
-
+This model has another variant, but that model is based off berry mix, it gives off realistic looking ones. Which I avoid. Talking about the remaining one, <code>AnyV3Ga+ElysiumV3</code>, I like how soft the generations feel, a little bit artsy compared to the base AnythingV3 model, thanks to Elysium being mixed in.
 </details>
 
 ## Model Comparisons

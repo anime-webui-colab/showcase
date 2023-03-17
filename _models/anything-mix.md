@@ -16,7 +16,11 @@ Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 1530271663, Size: 1024x512, Mod
 
 </details>
 <details><summary>My thoughts about this model</summary>
+<p>I, NUROISEA, own the repo for the models here. Recipes yoinked from reddit and just uploaded to huggingface for my own archival reasons.</p>
 
+<p><code>blossom-extract</code> is my favorite one here (as seem on the cover), this model really feels like Anything V3 enhanced at the time where mixes aren't as common. The better anatomy of this model made it popular while maintaining AnythingV3's unique (at the time) style.</p>
+
+<p>There are also two more models I did not include in the colab, since they are too realistic.</p>
 </details>
 
 ## Model Comparisons

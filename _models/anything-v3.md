@@ -16,7 +16,7 @@ Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 173767824, Size: 1024x512, Mode
 
 </details>
 <details><summary>My thoughts about this model</summary>
-
+The OG (debatable) model in the anime illustration generation sphere, this model really popped off everything. Sources unknown, some claims that this is based off NAI but we are not gonna tackle this here LMAO. Probably the most vanilla of the models, but it do gives some detail and random stuff onto your generations. It's quality still holds until to this day, as the source of almost every mixes in existence. Overall, this model is like your mother's cooking (I suck at making metaphors).
 </details>
 
 ## Model Comparisons

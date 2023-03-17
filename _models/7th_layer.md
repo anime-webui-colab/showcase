@@ -16,7 +16,7 @@ Steps: 24, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 3154197063, Size: 1024x
 
 </details>
 <details><summary>My thoughts about this model</summary>
-
+This model is somewhat fun to use, I personally like <code>v2_A</code> (as seen on the cover) since it gives off that energetic cartoony cutesy feel which I totally vibe with.
 </details>
 
 ## Model Comparisons
