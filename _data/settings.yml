@@ -2,8 +2,8 @@
 menu:
 - {name: 'Home', url: ''}
 - {name: 'Model list', url: 'model-list'}
-- {name: 'Favorite models', url: 'favorites' }
-- {name: 'My OCs', url: 'characters' }
+#- {name: 'Favorite models', url: 'favorites' }
+#- {name: 'My OCs', url: 'characters' }
 
 
 # Customize site text

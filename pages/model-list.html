@@ -1,0 +1,22 @@
+---
+layout: default
+title: "Model List"
+permalink: /model-list
+subtitle: All of the models will be shown here along side with their samples :)
+---
+{%- include sample-notice.html %}
+{%- for group in site.data.samples %}
+<h2>{{ group[0] }}</h2>
+{%- for model in group[1] %}
+<details>
+  <summary>{{ model[0] }}</summary>
+  {%- for sample in model[1] %}
+  <details>
+    <summary>{{sample[0] | capitalize}}</summary>
+    {%- assign image_url = sample[1] %}
+    {%- include image-to-original.html image-link=image_url %}
+  </details>
+  {%- endfor %}
+</details>
+{%- endfor %}
+{%- endfor %}

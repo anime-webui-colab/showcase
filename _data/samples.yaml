@@ -4,95 +4,339 @@
     aoi: https://lh3.googleusercontent.com/d/1_-1TUMMJBD_Ku6Mdo7wzb6DA11ea1W4I
     landscape: https://lh3.googleusercontent.com/d/1_-1TUMMJBD_Ku6Mdo7wzb6DA11ea1W4I
   7th_anime_v2_A:
-    fiyu: "fiyu"
-    aoi: "aoi"
-    landscape: "landscape"
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
   7th_anime_v2_B:
-    fiyu: "fiyu"
-    aoi: "aoi"
-    landscape: "landscape"
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
   7th_anime_v2_C:
-    fiyu: "fiyu"
-    aoi: "aoi"
-    landscape: "landscape"
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
   7th_anime_v2_G:
-    fiyu: "fiyu"
-    aoi: "aoi"
-    landscape: "landscape"
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
   7th_anime_v3_A:
-    fiyu: "fiyu"
-    aoi: "aoi"
-    landscape: "landscape"
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
   7th_anime_v3_B:
-    fiyu: "fiyu"
-    aoi: "aoi"
-    landscape: "landscape"
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
   7th_anime_v3_C:
-    fiyu: "fiyu"
-    aoi: "aoi"
-    landscape: "landscape"
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
   Abyss_7th_layer:
-    fiyu: "fiyu"
-    aoi: "aoi"
-    landscape: "landscape"
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
   abyss_7th_layerG1:
-    fiyu: "fiyu"
-    aoi: "aoi"
-    landscape: "landscape"
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
 
 8528-diffusion:
   8528d:
-    fiyu: "fiyu"
-    aoi: "aoi"
-    landscape: "landscape"
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
 
 AnimeInOurWorld:
+  animeinourworldep2:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
 
 AnyGape Mix:
+  AnyV3Ga+ElysiumV3:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
 
 Anything Mix:
+  anything-berry-30:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
+  anything-f222-15-elysiumv2-10:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
+  anything-f222-15:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
+  berrymix-v3:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
+  blossom-extract:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
+  hentai-elysium-50:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
+  nutmeg-mix:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
 
 Anything V3:
+  Anything-V3-full-pruned:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
 
 Anything V4:
+  anything-v4.0-pruned:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
+  anything-v4.5-pruned:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
 
 Baka-Diffusion!:
+  Baka-DiffusionV1(Fp16):
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
 
 Counterfeit:
+  counterfeit-v1.0:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
+  Counterfeit-V2.0fp16:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
+  Counterfeit-V2.1:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
+  Counterfeit-V2.2:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
+  Counterfeit-V2.5_pruned:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
 
 DrBob2142's Mix Models:
+  Blossom-extract:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
+  Docs 50 - 50 V2:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
+  Midnight Mix Alt:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
+  Midnight Mix:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
+  Midnight Mixer Alt V2:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
+  Midnight Mixer V2:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
+  Midnight Shake:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
+  Yohan Bake V1:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
+  Yohan Potluck V1:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
+  Yohan Potluck V2:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
+  Yohan Spiced V1:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
+  Yohan Spiced V2:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
 
 Eimis Anime Diffusion:
+  EimisAnimeDiffusion_1-0v:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
 
 Elysium Anime:
+  Elysium_Anime_V1:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
+  Elysium_Anime_V2:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
+  Elysium_Anime_V3:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
 
 Everything:
+  Everything V1 A:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
+  Everything V1 Final:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
+  Everything V1B:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
 
 Evt_V3:
+  Evt_V3_ema:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
 
 ExpMix_Line:
+  expmixLine_v20:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
 
 HDDream-G:
+  HDDream-Gape:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
 
 Hentai Diffusion:
+  HD-17:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
+  HD-18:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
+  HD-19:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
+  HD-20:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
+  HD-22:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
 
 Ligne Claire Anime:
+  ligne_claire_anime_diffusion_v1:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
 
 Midnight Mixes:
+  Midnight Maple:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
+  Midnight Melt:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
+  Midnight Mixer Melt:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
 
 Misobarisic's Playground:
+  AnyWolpGyokaiElysium:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
+  ArchonF222-fp16:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
+  ArchonInstagram-fp16:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
+  BerryMix-v2:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
+  healysAnimeBlend_17:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
+  kribomix-v1-fp16:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
+  padoruDiffusion_1:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
 
 MIX-Pro-V3:
+  mix-pro-v3-non-ema-fp16:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
 
 Momocha Mix:
+  momocha-6E7-0.315-AD-E6-0.15-WS:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
 
 OpenAnimeJourney:
+  OpenAnimeJourney:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
 
 OrangeMixs:
 
 Pastel Mix:
+  pastelmix-better-vae-fp16:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
 
 Plat Diffusion:
+  plat-v1-3-1:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
 
 Protothing_200:
 
@@ -101,7 +345,15 @@ Rasgeath's Self Made Sauce:
 shirayuki-model:
 
 soul0000:
+  soul0000:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"
 
 Waifu Diffusion:
 
 WaifuAnything:
+  WaifuAnything-pruned:
+    fiyu: "null"
+    aoi: "null"
+    landscape: "null"

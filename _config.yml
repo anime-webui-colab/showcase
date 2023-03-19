@@ -1,18 +1,4 @@
-# Site Build Settings
-
-# jekyll-paginate configuration
-#paginate:            10
-
-# Build settings
-#markdown:            kramdown
-#highlighter:         rouge
-permalink:           /:title
-#plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
-
-# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Model Showcase"
-description:	       "Model showcase"
-author:              "NUROISEA"
+permalink: /:title
 
 collections:
   models:

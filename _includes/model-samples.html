@@ -6,10 +6,7 @@
 <h2>Model Samples</h2>
 {% endif %}
 
-<p class="notice">
-  The prompts would be in here in this link, to remain consistent on all models. The images are also clickable to view
-  in a new tab, if the images are too small in this page.
-</p>
+{% include sample-notice.html %}
 
 {% if data_size > 1 %}
 {% for model in site.data.samples[page.title] %}
@@ -20,9 +17,8 @@
   <details>
     <summary>{{ item[0] | capitalize }}</summary>
 
-    <a href="{{ item[1] }}" target="_blank">
-      <img src="{{ item[1] }}" loading="lazy">
-    </a>
+    {% assign image_url = item[1] %}
+    {% include image-to-original.html image-link=image_url %}
 
   </details>
   {% endfor %}
@@ -35,9 +31,8 @@
 <details>
   <summary>{{ item[0] | capitalize }}</summary>
 
-  <a href="{{ item[1] }}" target="_blank">
-    <img src="{{ item[1] }}" loading="lazy">
-  </a>
+  {% assign image_url = item[1] %}
+  {% include image-to-original.html image-link=image_url %}
 
 </details>
 {% endfor %}
