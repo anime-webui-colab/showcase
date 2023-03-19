@@ -1,0 +1,45 @@
+{% assign data_size = site.data.samples[page.title].size %}
+
+{% if data_size > 1 %}
+<h2>{{ data_size }} Model Comparisons</h2>
+{% else %}
+<h2>Model Samples</h2>
+{% endif %}
+
+<p class="notice">
+  The prompts would be in here in this link, to remain consistent on all models. The images are also clickable to view
+  in a new tab, if the images are too small in this page.
+</p>
+
+{% if data_size > 1 %}
+{% for model in site.data.samples[page.title] %}
+<details>
+  <summary>{{ model[0] }}</summary>
+
+  {% for item in model[1] %}
+  <details>
+    <summary>{{ item[0] | capitalize }}</summary>
+
+    <a href="{{ item[1] }}" target="_blank">
+      <img src="{{ item[1] }}" loading="lazy">
+    </a>
+
+  </details>
+  {% endfor %}
+
+</details>
+{% endfor %}
+{% else %}
+{% for model in site.data.samples[page.title] %}
+{% for item in model[1] %}
+<details>
+  <summary>{{ item[0] | capitalize }}</summary>
+
+  <a href="{{ item[1] }}" target="_blank">
+    <img src="{{ item[1] }}" loading="lazy">
+  </a>
+
+</details>
+{% endfor %}
+{% endfor %}
+{% endif %}
