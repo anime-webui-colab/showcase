@@ -42,9 +42,9 @@
 
 8528-diffusion:
   8528d:
-    fiyu: "null"
-    aoi: "null"
-    landscape: "null"
+    fiyu: "https://cdn.discordapp.com/attachments/1088472528831393883/1088472529766727750/grid-0000.png"
+    aoi: "https://cdn.discordapp.com/attachments/1088472528831393883/1088472530181959690/grid-0001.png"
+    landscape: "https://cdn.discordapp.com/attachments/1088472528831393883/1088472529183703111/grid-0002.png"
 
 AnimeInOurWorld:
   animeinourworldep2:
