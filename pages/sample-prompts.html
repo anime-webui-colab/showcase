@@ -14,7 +14,7 @@ subtitle: For sampling consistency
 
 <h2>Common settings</h2>
 <ul>
-  <li>Negative Prompt: <code>(worst quality, low quality:1.4)</code></li>
+  <li>Negative Prompt: <code>(worst quality, low quality:1.4), nsfw</code></li>
   <li>Sampler: <code>Euler</code></li>
   <li>Size: <code>512x768</code></li>
   <li>Steps: <code>20</code></li>
@@ -23,23 +23,23 @@ subtitle: For sampling consistency
   <li>Clip skip: <code>2</code></li>
   <li>ENSD: <code>0</code> (default)</li>
   <li>Seed: <code>3252012142</code> ("cytlnuroisea" to numbers and I only picked the first 10 numbers)</li>
-  <li>Batch Size: <code>6</code></li>
+  <li>Batch Size: <code>3</code></li>
 </ul>
 
 <h2>Prompts for Fiyu</h2>
 
 <pre>
 1girl, blonde hair, blue eyes, short hair, wavy hair, hair ribbon, blue ribbon, detached sleeves, blue dress, portrait
-Negative prompt: (worst quality, low quality:1.4)
-Steps: 20, Sampler: Euler, CFG scale: 7, Seed: 3252012142, Size: 512x768, Clip skip: 2, ENSD: 0
+Negative prompt: (worst quality, low quality:1.4), nsfw
+Steps: 20, Sampler: Euler, CFG scale: 7, Seed: 3252012142, Size: 512x768, Clip skip: 2, ENSD: 0, Batch size: 3
 </pre>
 
 <h2>Prompts for Aoi</h2>
 
 <pre>
-1girl, white hair, green eyes, long hair, messy hair, choker, white jacket, green shirt, portrait
-Negative prompt: (worst quality, low quality:1.4)
-Steps: 20, Sampler: Euler, CFG scale: 7, Seed: 3252012142, Size: 512x768, Clip skip: 2, ENSD: 0
+1girl, white hair, green eyes, long hair, messy hair, choker, white jacket, open jacket, green shirt
+Negative prompt: (worst quality, low quality:1.4), nsfw
+Steps: 20, Sampler: Euler, CFG scale: 7, Seed: 3252012142, Size: 512x768, Clip skip: 2, ENSD: 0, Batch size: 3
 </pre>
 
 <h2>Prompts for landscapes</h2>
@@ -48,6 +48,6 @@ Using a different resolution: <code>768x512</code>
 
 <pre>
 scenery, mountains, grass fields, flowers
-Negative prompt: (worst quality, low quality:1.4)
-Steps: 20, Sampler: Euler, CFG scale: 7, Seed: 3252012142, Size: 768x512, Clip skip: 2, ENSD: 0
+Negative prompt: (worst quality, low quality:1.4), nsfw
+Steps: 20, Sampler: Euler, CFG scale: 7, Seed: 3252012142, Size: 768x512, Clip skip: 2, ENSD: 0, Batch size: 3
 </pre>
