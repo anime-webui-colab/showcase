@@ -112,9 +112,9 @@ Baka-Diffusion!:
 
 ChameleonAI Mix:
   chameleonaiMix_v10:
-  fiyu: "https://cdn.discordapp.com/attachments/1089462057478389820/1089462057784578188/grid-0000.png"
-  aoi: "https://cdn.discordapp.com/attachments/1089462057478389820/1089462058371792946/grid-0001.png"
-  landscape: "https://cdn.discordapp.com/attachments/1089462057478389820/1089462058749263922/grid-0002.png"
+    fiyu: "https://cdn.discordapp.com/attachments/1089462057478389820/1089462057784578188/grid-0000.png"
+    aoi: "https://cdn.discordapp.com/attachments/1089462057478389820/1089462058371792946/grid-0001.png"
+    landscape: "https://cdn.discordapp.com/attachments/1089462057478389820/1089462058749263922/grid-0002.png"
 
 Counterfeit:
   counterfeit-v1.0:
