@@ -274,47 +274,47 @@ Ligne Claire Anime:
 
 Midnight Mixes:
   Midnight Maple:
-    fiyu: "null"
-    aoi: "null"
-    landscape: "null"
+    fiyu: "https://cdn.discordapp.com/attachments/1091711541260324985/1091711541612642324/grid-0000.png"
+    aoi: "https://cdn.discordapp.com/attachments/1091711541260324985/1091711542086615120/grid-0001.png"
+    landscape: "https://cdn.discordapp.com/attachments/1091711541260324985/1091711542514421820/grid-0002.png"
   Midnight Melt:
-    fiyu: "null"
-    aoi: "null"
-    landscape: "null"
+    fiyu: "https://cdn.discordapp.com/attachments/1091711541260324985/1091712766630428812/83n.png"
+    aoi: "https://cdn.discordapp.com/attachments/1091711541260324985/1091712767100211265/IIu.png"
+    landscape: "https://cdn.discordapp.com/attachments/1091711541260324985/1091712767817424957/wNA.png"
   Midnight Mixer Melt:
-    fiyu: "null"
-    aoi: "null"
-    landscape: "null"
+    fiyu: "https://cdn.discordapp.com/attachments/1091711541260324985/1091713934077198427/p35.png"
+    aoi: "https://cdn.discordapp.com/attachments/1091711541260324985/1091713934668607560/9Ho.png"
+    landscape: "https://cdn.discordapp.com/attachments/1091711541260324985/1091713935465529384/uJ9.png"
 
 Misobarisic's Playground:
   AnyWolpGyokaiElysium:
-    fiyu: "null"
-    aoi: "null"
-    landscape: "null"
+    fiyu: "https://cdn.discordapp.com/attachments/1091715841248219197/1091715841780879480/grid-0000.png"
+    aoi: "https://cdn.discordapp.com/attachments/1091715841248219197/1091715842170945677/grid-0001.png"
+    landscape: "https://cdn.discordapp.com/attachments/1091715841248219197/1091715842514899054/grid-0002.png"
   ArchonF222-fp16:
-    fiyu: "null"
-    aoi: "null"
-    landscape: "null"
+    fiyu: "https://cdn.discordapp.com/attachments/1091715841248219197/1091717525236105296/YXa.png"
+    aoi: "https://cdn.discordapp.com/attachments/1091715841248219197/1091717525630353458/dOh.png"
+    landscape: "https://cdn.discordapp.com/attachments/1091715841248219197/1091717526058180749/FYw.png"
   ArchonInstagram-fp16:
-    fiyu: "null"
-    aoi: "null"
-    landscape: "null"
+    fiyu: "https://cdn.discordapp.com/attachments/1091715841248219197/1091719077300551801/tcJ.png"
+    aoi: "https://cdn.discordapp.com/attachments/1091715841248219197/1091719077862576260/2ZZ.png"
+    landscape: "https://cdn.discordapp.com/attachments/1091715841248219197/1091719078374285372/75C.png"
   BerryMix-v2:
-    fiyu: "null"
-    aoi: "null"
-    landscape: "null"
+    fiyu: "https://cdn.discordapp.com/attachments/1091715841248219197/1091721369089224744/XQu.png"
+    aoi: "https://cdn.discordapp.com/attachments/1091715841248219197/1091721369462526103/cQi.png"
+    landscape: "https://cdn.discordapp.com/attachments/1091715841248219197/1091721369873555506/iQy.png"
   healysAnimeBlend_17:
-    fiyu: "null"
-    aoi: "null"
-    landscape: "null"
+    fiyu: "https://cdn.discordapp.com/attachments/1091715841248219197/1091722075573592174/Era.png"
+    aoi: "https://cdn.discordapp.com/attachments/1091715841248219197/1091722076102066176/sd2.png"
+    landscape: "https://cdn.discordapp.com/attachments/1091715841248219197/1091722076466991134/1gF.png"
   kribomix-v1-fp16:
-    fiyu: "null"
-    aoi: "null"
-    landscape: "null"
+    fiyu: "https://cdn.discordapp.com/attachments/1091715841248219197/1091723773062942852/jps.png"
+    aoi: "https://cdn.discordapp.com/attachments/1091715841248219197/1091723773524328558/ECJ.png"
+    landscape: "https://cdn.discordapp.com/attachments/1091715841248219197/1091723774015066182/yxp.png"
   padoruDiffusion_1:
-    fiyu: "null"
-    aoi: "null"
-    landscape: "null"
+    fiyu: "https://cdn.discordapp.com/attachments/1091715841248219197/1091970353187786822/zss.png"
+    aoi: "https://cdn.discordapp.com/attachments/1091715841248219197/1091970353540120586/brE.png"
+    landscape: "https://cdn.discordapp.com/attachments/1091715841248219197/1091970353888243772/atv.png"
 
 MIX-Pro-V3:
   mix-pro-v3-non-ema-fp16:
@@ -334,9 +334,9 @@ Momocha Mix:
 
 OpenAnimeJourney:
   OpenAnimeJourney:
-    fiyu: "null"
-    aoi: "null"
-    landscape: "null"
+    fiyu: "https://cdn.discordapp.com/attachments/1091710869202817115/1091710869706129488/grid-0000.png"
+    aoi: "https://cdn.discordapp.com/attachments/1091710869202817115/1091710870125551686/grid-0001.png"
+    landscape: "https://cdn.discordapp.com/attachments/1091710869202817115/1091710870494662726/grid-0002.png"
 
 OrangeMixs:
   AbyssOrangeMix:
@@ -450,21 +450,57 @@ OrangeMixs:
 
 Pastel Mix:
   pastelmix-better-vae-fp16:
-    fiyu: "null"
-    aoi: "null"
-    landscape: "null"
+    fiyu: "https://cdn.discordapp.com/attachments/1091713057274740866/1091713057803227196/grid-0000.png"
+    aoi: "https://cdn.discordapp.com/attachments/1091713057274740866/1091713058444951602/grid-0001.png"
+    landscape: "https://cdn.discordapp.com/attachments/1091713057274740866/1091713059162181632/grid-0002.png"
 
 Plat Diffusion:
   plat-v1-3-1:
-    fiyu: "null"
-    aoi: "null"
-    landscape: "null"
+    fiyu: "https://cdn.discordapp.com/attachments/1091714976147836949/1091714976483389510/grid-0000.png"
+    aoi: "https://cdn.discordapp.com/attachments/1091714976147836949/1091714977003475074/grid-0001.png"
+    landscape: "https://cdn.discordapp.com/attachments/1091714976147836949/1091714977620045894/grid-0002.png"
 
 Protothing_200:
+  AmbrosiaFusion:
+    fiyu: "https://cdn.discordapp.com/attachments/1091724322328019004/1091724322743263363/image.png"
+    aoi: "https://cdn.discordapp.com/attachments/1091724322328019004/1091724323213029506/grid-0001.png"
+    landscape: "https://cdn.discordapp.com/attachments/1091724322328019004/1091724323837968384/grid-0002.png"
+  ProtoThing_200_pruned:
+    fiyu: "https://cdn.discordapp.com/attachments/1091724322328019004/1091726491341049947/vFV.png"
+    aoi: "https://cdn.discordapp.com/attachments/1091724322328019004/1091726491773059154/ly2.png"
+    landscape: "https://cdn.discordapp.com/attachments/1091724322328019004/1091726492205076510/AqF.png"
+  ZestyFusion_200:
+    fiyu: "https://cdn.discordapp.com/attachments/1091724322328019004/1091727852380094657/5lt.png"
+    aoi: "https://cdn.discordapp.com/attachments/1091724322328019004/1091727852786958386/27B.png"
+    landscape: "https://cdn.discordapp.com/attachments/1091724322328019004/1091727853235744839/s51.png"
 
 Rasgeath's Self Made Sauce:
+  AniMeth:
+    fiyu: "https://cdn.discordapp.com/attachments/1091730102422872158/1091730102968144114/grid-0000.png"
+    aoi: "https://cdn.discordapp.com/attachments/1091730102422872158/1091730103609860176/grid-0001.png"
+    landscape: "https://cdn.discordapp.com/attachments/1091730102422872158/1091730104113188915/grid-0002.png"
+  AniMethAlt:
+    fiyu: "https://cdn.discordapp.com/attachments/1091730102422872158/1091731496785674370/qFJ.png"
+    aoi: "https://cdn.discordapp.com/attachments/1091730102422872158/1091731497360306238/Ej7.png"
+    landscape: "https://cdn.discordapp.com/attachments/1091730102422872158/1091731497901359194/Caf.png"
+  Camembert-pruned:
+    fiyu: "https://cdn.discordapp.com/attachments/1091730102422872158/1091732829391573082/MSU.png"
+    aoi: "https://cdn.discordapp.com/attachments/1091730102422872158/1091732830880538734/gSy.png"
+    landscape: "https://cdn.discordapp.com/attachments/1091730102422872158/1091732831371284701/KW4.png"
+  Kani-anime-pruned:
+    fiyu: "https://cdn.discordapp.com/attachments/1091730102422872158/1091734966481731724/1AZ.png"
+    aoi: "https://cdn.discordapp.com/attachments/1091730102422872158/1091734966947283016/LtC.png"
+    landscape: "https://cdn.discordapp.com/attachments/1091730102422872158/1091734967458996275/BYl.png"
+  Kani:
+    fiyu: "https://cdn.discordapp.com/attachments/1091730102422872158/1091736339612967003/fGm.png"
+    aoi: "https://cdn.discordapp.com/attachments/1091730102422872158/1091736340200161370/NqK.png"
+    landscape: "https://cdn.discordapp.com/attachments/1091730102422872158/1091736340825129010/L9z.png"
 
-shirayuki-model:
+Shirayuki Model:
+  Shirayuki_Anime_V1-fp16:
+    fiyu: "https://cdn.discordapp.com/attachments/1091716998259544245/1091716998687379476/image.png"
+    aoi: "https://cdn.discordapp.com/attachments/1091716998259544245/1091716999207460865/grid-0001.png"
+    landscape: "https://cdn.discordapp.com/attachments/1091716998259544245/1091716999601721344/grid-0002.png"
 
 Something:
   SomethingV2_2:
@@ -472,44 +508,44 @@ Something:
     aoi: "https://cdn.discordapp.com/attachments/1089556994765094935/1089556995499106314/grid-0002.png"
     landscape: "https://cdn.discordapp.com/attachments/1089556994765094935/1089556995780116480/grid-0003.png"
 
-soul0000:
+Soul0000:
   soul0000:
-    fiyu: "null"
-    aoi: "null"
-    landscape: "null"
+    fiyu: "https://cdn.discordapp.com/attachments/1091719164084883466/1091719164516913162/grid-0001.png"
+    aoi: "https://cdn.discordapp.com/attachments/1091719164084883466/1091719165229928509/grid-0002.png"
+    landscape: "https://cdn.discordapp.com/attachments/1091719164084883466/1091719165733261322/grid-0003.png"
 
 Waifu Diffusion:
-  1.3:
+  wd-v1-3-float32:
     fiyu: "https://cdn.discordapp.com/attachments/1088721658409394227/1088724456844832778/grid-0000.png"
     aoi: "https://cdn.discordapp.com/attachments/1088721658409394227/1088724457381699606/grid-0001.png"
     landscape: "https://cdn.discordapp.com/attachments/1088721658409394227/1088724457864056842/grid-0002.png"
-  1.3.5:
+  wd-1-3-5_80000-fp32:
     fiyu: "https://cdn.discordapp.com/attachments/1088721658409394227/1088789232019066931/grid-0000.png"
     aoi: "https://cdn.discordapp.com/attachments/1088721658409394227/1088789232568508426/grid-0001.png"
     landscape: "https://cdn.discordapp.com/attachments/1088721658409394227/1088789233113780354/grid-0002.png"
-  1.4 epoch 1:
+  wd-1-4-anime_e1:
     fiyu: "https://cdn.discordapp.com/attachments/1088721658409394227/1088790893659689012/grid-0000.png"
     aoi: "https://cdn.discordapp.com/attachments/1088721658409394227/1088790894255292426/grid-0001.png"
     landscape: "https://cdn.discordapp.com/attachments/1088721658409394227/1088790895027036160/grid-0002.png"
-  1.4 epoch 2:
+  wd-1-4-epoch2-fp16:
     fiyu: "https://cdn.discordapp.com/attachments/1088721658409394227/1088721658853982228/grid-0000.png"
     aoi: "https://cdn.discordapp.com/attachments/1088721658409394227/1088721659399254036/grid-0001.png"
     landscape: "https://cdn.discordapp.com/attachments/1088721658409394227/1088721659906752522/grid-0002.png"
-  1.5 beta 1:
+  wd15-beta1-fp16:
     fiyu: "https://cdn.discordapp.com/attachments/1088721658409394227/1088792381635178617/grid-0000.png"
     aoi: "https://cdn.discordapp.com/attachments/1088721658409394227/1088792382260138066/grid-0001.png"
     landscape: "https://cdn.discordapp.com/attachments/1088721658409394227/1088792382822162473/grid-0002.png"
     fiyu (recommended prompts): "https://cdn.discordapp.com/attachments/1088721658409394227/1088793559894867978/grid-0003.png"
     aoi (recommended prompts): "https://cdn.discordapp.com/attachments/1088721658409394227/1088793560830201897/grid-0004.png"
     landscape (recommended prompts): "https://cdn.discordapp.com/attachments/1088721658409394227/1088793561362862111/grid-0005.png"
-  1.5 beta 2:
+  wd-1-5-beta2-fp16:
     fiyu: "https://cdn.discordapp.com/attachments/1088721658409394227/1088795254276227124/grid-0000.png"
     aoi: "https://cdn.discordapp.com/attachments/1088721658409394227/1088795254842470441/grid-0001.png"
     landscape: "https://cdn.discordapp.com/attachments/1088721658409394227/1088795255329001472/grid-0002.png"
     fiyu (recommended prompts): "https://cdn.discordapp.com/attachments/1088721658409394227/1088796166247960646/grid-0003.png"
     aoi (recommended prompts): "https://cdn.discordapp.com/attachments/1088721658409394227/1088796166793212006/grid-0004.png"
     landscape (recommended prompts): "https://cdn.discordapp.com/attachments/1088721658409394227/1088796167288131626/grid-0005.png"
-  1.5 beta 2 aesthetic:
+  wd-1-5-beta2-aesthetic-fp16:
     fiyu: "https://cdn.discordapp.com/attachments/1088721658409394227/1088798330466865224/grid-0000a60d8f32f80034356ca7d56a4c0eee0237bdfce7.png"
     aoi: "https://cdn.discordapp.com/attachments/1088721658409394227/1088798330768850974/grid-00013e9a5386d7243288aaf699c1792712c0d7477044.png"
     landscape: "https://cdn.discordapp.com/attachments/1088721658409394227/1088798331171520542/grid-00021e759711ba24cdfc10b137f5c03e02ebaeb74548.png"
@@ -519,6 +555,34 @@ Waifu Diffusion:
 
 WaifuAnything:
   WaifuAnything-pruned:
-    fiyu: "null"
-    aoi: "null"
-    landscape: "null"
+    fiyu: "https://cdn.discordapp.com/attachments/1091721738540290088/1091721738880036885/grid-0000.png"
+    aoi: "https://cdn.discordapp.com/attachments/1091721738540290088/1091721739198808156/grid-0001.png"
+    landscape: "https://cdn.discordapp.com/attachments/1091721738540290088/1091721739572088894/grid-0002.png"
+
+# im too lazy to sort here, from now on, ill just append new things here
+
+Mixing Cauldron:
+  OrangeProBlossomPastel:
+    fiyu: "https://cdn.discordapp.com/attachments/1091727169643872407/1091727170008789134/grid-0000.png"
+    aoi: "https://cdn.discordapp.com/attachments/1091727169643872407/1091727170696646676/grid-0001.png"
+    landscape: "https://cdn.discordapp.com/attachments/1091727169643872407/1091727171099295764/grid-0002.png"
+  exsoular:
+    fiyu: "https://cdn.discordapp.com/attachments/1091727169643872407/1091728688145502349/YSd.png"
+    aoi: "https://cdn.discordapp.com/attachments/1091727169643872407/1091728688590114936/b5y.png"
+    landscape: "https://cdn.discordapp.com/attachments/1091727169643872407/1091728689110192198/HJQ.png"
+  exsoulvoyant:
+    fiyu: "https://cdn.discordapp.com/attachments/1091727169643872407/1091729596455604224/wCL.png"
+    aoi: "https://cdn.discordapp.com/attachments/1091727169643872407/1091729596963098724/Tk8.png"
+    landscape: "https://cdn.discordapp.com/attachments/1091727169643872407/1091729597470617692/Fdm.png"
+  floral-essence:
+    fiyu: "https://cdn.discordapp.com/attachments/1091727169643872407/1091731663974830172/WmZ.png"
+    aoi: "https://cdn.discordapp.com/attachments/1091727169643872407/1091731664511696976/7jm.png"
+    landscape: "https://cdn.discordapp.com/attachments/1091727169643872407/1091731665153429504/j26.png"
+  florescence:
+    fiyu: "https://cdn.discordapp.com/attachments/1091727169643872407/1091732125570568232/82E.png"
+    aoi: "https://cdn.discordapp.com/attachments/1091727169643872407/1091732126136803458/ecr.png"
+    landscape: "https://cdn.discordapp.com/attachments/1091727169643872407/1091732126732390470/lZN.png"
+  pastel-floral-essence:
+    fiyu: "https://cdn.discordapp.com/attachments/1091727169643872407/1091733631891943444/Kkz.png"
+    aoi: "https://cdn.discordapp.com/attachments/1091727169643872407/1091733632542068886/e7l.png"
+    landscape: "https://cdn.discordapp.com/attachments/1091727169643872407/1091733633083121784/FBf.png"
