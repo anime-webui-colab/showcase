@@ -1,0 +1,157 @@
+7th_layer:
+  Colab: https://colab.research.google.com/github/NUROISEA/anime-webui-colab/blob/main/notebooks/7th_layer.ipynb
+  HuggingFace [syaimu]: https://huggingface.co/syaimu/7th_Layer
+
+8528-diffusion:
+  Colab: https://colab.research.google.com/github/NUROISEA/anime-webui-colab/blob/main/notebooks/8528-diffusion.ipynb
+  HuggingFace [ckpt] (mirror): https://huggingface.co/ckpt/8528-diffusion
+
+AnimeInOurWorld:
+  Colab: https://colab.research.google.com/github/NUROISEA/anime-webui-colab/blob/main/notebooks/animeinourworld.ipynb
+  HuggingFace [NoCrypt]: https://huggingface.co/NoCrypt/animeinourworld-model
+
+AnyGape Mix:
+  Colab: https://colab.research.google.com/github/NUROISEA/anime-webui-colab/blob/main/notebooks/any_gape_mix.ipynb
+  HuggingFace [etherealxx]: https://huggingface.co/etherealxx/anygape-mix
+
+Anything Mix:
+  Colab: https://colab.research.google.com/github/NUROISEA/anime-webui-colab/blob/main/notebooks/anything_mix.ipynb
+  HuggingFace [NUROISEA]: https://huggingface.co/NUROISEA/anything-mix
+
+Anything V3:
+  Colab: https://colab.research.google.com/github/NUROISEA/anime-webui-colab/blob/main/notebooks/anything_v3.ipynb
+  HuggingFace [NUROISEA] (mirror): https://huggingface.co/NUROISEA/av3-mirror
+
+Anything V4:
+  Colab: https://colab.research.google.com/github/NUROISEA/anime-webui-colab/blob/main/notebooks/anything_v4.ipynb
+  HuggingFace [andite]: https://huggingface.co/andite/anything-v4.0
+
+Baka-Diffusion!:
+  Colab: https://colab.research.google.com/github/NUROISEA/anime-webui-colab/blob/main/notebooks/baka_diffusion.ipynb
+  HuggingFace [Hosioka]: https://huggingface.co/Hosioka/Baka-Diffusion
+
+ChameleonAI Mix:
+  Colab: https://colab.research.google.com/github/NUROISEA/anime-webui-colab/blob/main/notebooks/chameleonai-mix.ipynb
+  Civitai [ChameleonAI]: https://civitai.com/models/19785/chameleonai-mix
+
+Counterfeit:
+  Colab: https://colab.research.google.com/github/NUROISEA/anime-webui-colab/blob/main/notebooks/counterfeit.ipynb
+  HuggingFace [gsdf] (v1.0): https://huggingface.co/gsdf/Counterfeit-V1.0
+  HuggingFace [gsdf] (v2.0): https://huggingface.co/gsdf/Counterfeit-V2.0
+  HuggingFace [gsdf] (v2.5): https://huggingface.co/gsdf/Counterfeit-V2.5
+
+DrBob2142's Mix Models:
+  Colab: https://colab.research.google.com/github/NUROISEA/anime-webui-colab/blob/main/notebooks/drbob2142_mix_models.ipynb
+  HuggingFace [DrBob2142]: https://huggingface.co/DrBob2142/Mix-Models
+
+Eimis Anime Diffusion:
+  Colab: https://colab.research.google.com/github/NUROISEA/anime-webui-colab/blob/main/notebooks/eimis_anime_diffusion.ipynb
+  HuggingFace [eimiss]: https://huggingface.co/eimiss/EimisAnimeDiffusion_1.0v
+
+Elysium Anime:
+  Colab: https://colab.research.google.com/github/NUROISEA/anime-webui-colab/blob/main/notebooks/elysium_anime.ipynb
+  HuggingFace [hesw23168]: https://huggingface.co/hesw23168/SD-Elysium-Model
+
+Everything:
+  Colab: https://colab.research.google.com/github/NUROISEA/anime-webui-colab/blob/main/notebooks/everything.ipynb
+  HuggingFace [DrBob2142]: https://huggingface.co/DrBob2142/Everything
+
+Evt_V3:
+  Colab: https://colab.research.google.com/github/NUROISEA/anime-webui-colab/blob/main/notebooks/evt_v3.ipynb
+  HuggingFace [haor]: https://huggingface.co/haor/Evt_V3
+
+ExpMix_Line:
+  Colab: https://colab.research.google.com/github/NUROISEA/anime-webui-colab/blob/main/notebooks/expmix_line.ipynb
+  Civitai [mods13] (404): https://civitai.com/models/12865/expmixline
+  HuggingFace [mdl-mirror] (mirror): https://huggingface.co/mdl-mirror/ExpMix_Line
+
+HDDream-G:
+  Colab: https://colab.research.google.com/github/NUROISEA/anime-webui-colab/blob/main/notebooks/hddream_g.ipynb
+  HuggingFace [Horsebird]: https://huggingface.co/Horsebird/HDDream-G
+
+Hentai Diffusion:
+  Colab: https://colab.research.google.com/github/NUROISEA/anime-webui-colab/blob/main/notebooks/hentai_diffusion.ipynb
+  HuggingFace [Deltaadams] (17-19): https://huggingface.co/Deltaadams/HentaiDiffusion
+  HuggingFace [Deltaadams] (20): https://huggingface.co/Deltaadams/HD-20
+  HuggingFace [Deltaadams] (22): https://huggingface.co/Deltaadams/HD-22
+  HuggingFace [pruned] (mirror): https://huggingface.co/pruned/HentaiDiffusion
+
+Ligne Claire Anime:
+  Colab: https://colab.research.google.com/github/NUROISEA/anime-webui-colab/blob/main/notebooks/ligne_claire_anime_diffusion.ipynb
+  Civitai [breakcore2]: https://civitai.com/models/3852/ligne-claire-anime
+  Huggingface [breakcore2]: https://huggingface.co/breakcore2/ligne_claire_anime_diffusion
+
+Midnight Mixes:
+  Colab: https://colab.research.google.com/github/NUROISEA/anime-webui-colab/blob/main/notebooks/midnight_mixes.ipynb
+  HuggingFace [DrBob2142]: https://huggingface.co/DrBob2142/Midnight_Mixes
+
+Misobarisic's Playground:
+  Colab: https://colab.research.google.com/github/NUROISEA/anime-webui-colab/blob/main/notebooks/misobarisic_playground.ipynb
+  HuggingFace [misobarisic]: https://huggingface.co/misobarisic/playground
+
+MIX-Pro-V3:
+  Colab: https://colab.research.google.com/github/NUROISEA/anime-webui-colab/blob/main/notebooks/mix-pro-v3.ipynb
+  Civitai [P317cm] (V3): https://civitai.com/models/7241/mix-pro-v3
+  Civitai [P317cm] (V3.5): https://civitai.com/models/14206/mix-pro-v35lignes
+  HuggingFace [swl-models] (mirror) (V3): https://huggingface.co/swl-models/mix-pro-v3
+  HuggingFace [pruned] (mirror) (V3.5): https://huggingface.co/pruned/mixProV35Lignes_v35
+
+Momocha Mix:
+  Colab: https://colab.research.google.com/github/NUROISEA/anime-webui-colab/blob/main/notebooks/momocha_mix.ipynb
+  HuggingFace [NoCrypt]: https://huggingface.co/NoCrypt/momocha-mix
+  SharePoint [chenyfan]: https://cyfan-my.sharepoint.com/:f:/g/personal/chenyfan_cyfan_onmicrosoft_com/EilOWB40m3ZJn6ahczIUIs4B6v0XvizO5YorOhG_5eYSUw?e=ZyP7qE
+
+OpenAnimeJourney:
+  Colab: https://colab.research.google.com/github/NUROISEA/anime-webui-colab/blob/main/notebooks/open_anime_journey.ipynb
+  HuggingFace [MehjourneyClosedAI]: https://huggingface.co/MehjourneyClosedAI/OpenAnimeJourney
+
+OrangeMixs:
+  Colab: https://colab.research.google.com/github/NUROISEA/anime-webui-colab/blob/main/notebooks/orange_mixs.ipynb
+  HuggingFace [WarriorMama777]: https://huggingface.co/WarriorMama777/OrangeMixs
+
+Pastel Mix:
+  Colab: https://colab.research.google.com/github/NUROISEA/anime-webui-colab/blob/main/notebooks/pastel_mix.ipynb
+  Civitai [andite]: https://civitai.com/models/5414/pastel-mix-stylized-anime-model
+  HuggingFace [andite]: https://huggingface.co/andite/pastel-mix
+
+Plat Diffusion:
+  Colab: https://colab.research.google.com/github/NUROISEA/anime-webui-colab/blob/main/notebooks/plat-diffusion.ipynb
+  HuggingFace [p1atdev]: https://huggingface.co/p1atdev/plat-diffusion
+
+Protothing_200:
+  Colab: https://colab.research.google.com/github/NUROISEA/anime-webui-colab/blob/main/notebooks/protothing_200.ipynb
+  HuggingFace [NiteStormz]: https://huggingface.co/NiteStormz/ProtoThing_200
+
+Rasgeath's Self Made Sauce:
+  Colab: https://colab.research.google.com/github/NUROISEA/anime-webui-colab/blob/main/notebooks/rasgeath_self_made_sauce.ipynb
+  HuggingFace [Rasgeath]: https://huggingface.co/Rasgeath/self_made_sauce
+
+Shirayuki Model:
+  Colab: https://colab.research.google.com/github/NUROISEA/anime-webui-colab/blob/main/notebooks/shirayuki_model.ipynb
+  HuggingFace [hesw23168]: https://huggingface.co/hesw23168/SD_Shirayuki_Model
+
+Something:
+  Colab: https://colab.research.google.com/github/NUROISEA/anime-webui-colab/blob/main/notebooks/something.ipynb
+  HuggingFace [NoCrypt]: https://huggingface.co/NoCrypt/SomethingV2_2
+
+Soul0000:
+  Colab: https://colab.research.google.com/github/NUROISEA/anime-webui-colab/blob/main/notebooks/soul0000.ipynb
+  HuggingFace [TheRaphael0000]: https://huggingface.co/TheRaphael0000/mixes0000
+
+Waifu Diffusion:
+  Colab: https://colab.research.google.com/github/NUROISEA/anime-webui-colab/blob/main/notebooks/waifu_diffusion.ipynb
+  Huggingface [hakurei] (1.3): https://huggingface.co/hakurei/waifu-diffusion-v1-3
+  Huggingface [hakurei] (1.3.5): https://huggingface.co/hakurei/waifu-diffusion-v1-4
+  Huggingface [hakurei] (1.4 epoch 1): https://huggingface.co/hakurei/waifu-diffusion-v1-4
+  Huggingface [saltacc] (1.4 epoch 2): https://huggingface.co/saltacc/wd-1-4-anime
+  Huggingface [waifu-diffusion] (1.5 beta 1): https://huggingface.co/waifu-diffusion/wd-1-5-beta
+  Huggingface [waifu-diffusion] (1.5 beta 2): https://huggingface.co/waifu-diffusion/wd-1-5-beta2
+  Huggingface [waifu-diffusion] (1.5 beta 2 aesthetic): https://huggingface.co/waifu-diffusion/wd-1-5-beta2
+
+WaifuAnything:
+  Colab: https://colab.research.google.com/github/NUROISEA/anime-webui-colab/blob/main/notebooks/waifuanything.ipynb
+  Huggingface [KuromiLayfe]: https://huggingface.co/KuromiLayfe/WaifuAnything
+
+Mixing Cauldron:
+  Colab: https://colab.research.google.com/github/NUROISEA/anime-webui-colab/blob/main/notebooks/mixing-cauldron.ipynb
+  HuggingFace [NUROISEA]: https://huggingface.co/NUROISEA/mixing-cauldron

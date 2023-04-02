@@ -9,7 +9,7 @@ subtitle: All of the models will be shown here along side with their samples :)
 
 <h1>Table of Contents</h1>
 <details>
-  <summary>Page Contents</summary>
+  <summary>📑 Page Contents</summary>
   <ol>
     {%- for repo in repos %}
     {%- assign model_title = repo[0] %}
@@ -34,6 +34,23 @@ subtitle: All of the models will be shown here along side with their samples :)
 {%- assign model_title = repo[0] %}
 {%- assign models = repo[1] %}
 <h2 id="{{ model_title | slugify }}">{{ model_title }}</h2>
+<details>
+  <summary>🌐 Links</summary>
+  {%- assign links = site.data.links[model_title] %}
+  <ul>
+    {%- for link in links %}
+    {%- if link[0] == "Colab" %}
+    <li>
+      <a href="{{ link[1] }}"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
+    </li>
+    {%- else %}
+    <li>
+      <a href="{{ link[1] }}">{{ link[0] }}</a>
+    </li>
+    {%- endif %}
+    {%- endfor %}
+  </ul>
+</details>
 {%- for model in models %}
 {%- assign model_name = model[0] %}
 <details id="{{ model_title | slugify }}-{{ model_name | slugify }}">
