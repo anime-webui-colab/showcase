@@ -5,11 +5,39 @@ permalink: /model-list
 subtitle: All of the models will be shown here along side with their samples :)
 ---
 {%- include sample-notice.html %}
-{%- for group in site.data.samples %}
-<h2>{{ group[0] }}</h2>
-{%- for model in group[1] %}
+{%- assign repos = site.data.samples | sort %}
+
+<h1>Table of Contents</h1>
 <details>
-  <summary>{{ model[0] }}</summary>
+  <summary>Page Contents</summary>
+  <ol>
+    {%- for repo in repos %}
+    {%- assign model_title = repo[0] %}
+    {%- assign models = repo[1] %}
+    <li>
+      <a href="#{{ model_title | slugify }}">{{ model_title }}</a>
+      <ol>
+        {%- for model in models %}
+        {%- assign model_name = model[0] %}
+        <li>
+          <a href="#{{ model_title | slugify }}-{{ model_name | slugify }}">
+            {{ model_name }}
+          </a>
+        </li>
+        {%- endfor %}
+      </ol>
+    </li>
+    {%- endfor %}
+  </ol>
+</details>
+{%- for repo in repos %}
+{%- assign model_title = repo[0] %}
+{%- assign models = repo[1] %}
+<h2 id="{{ model_title | slugify }}">{{ model_title }}</h2>
+{%- for model in models %}
+{%- assign model_name = model[0] %}
+<details id="{{ model_title | slugify }}-{{ model_name | slugify }}">
+  <summary>{{ model_name }}</summary>
   {%- for sample in model[1] %}
   <details>
     <summary>{{sample[0] | capitalize}}</summary>
