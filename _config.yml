@@ -5,7 +5,7 @@ collections:
     output: true
   posts:
     output: true
-    permalink: /updates/:title
+    permalink: updates/:title
 
 defaults:
   - scope:
