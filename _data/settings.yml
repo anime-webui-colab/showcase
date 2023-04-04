@@ -2,6 +2,7 @@
 menu:
 #- {name: 'Home', url: ''}
 - {name: 'Model list', url: 'model-list'}
+- {name: 'Updates', url: 'updates'}
 #- {name: 'Favorite models', url: 'favorites' }
 #- {name: 'My OCs', url: 'characters' }
 
