@@ -3,3 +3,18 @@ permalink: /:title
 collections:
   models:
     output: true
+  posts:
+    output: true
+    permalink: /updates/:title
+
+defaults:
+  - scope:
+      path: ""
+      type: "models"
+    values:
+      layout: "model-post"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "update-post"
