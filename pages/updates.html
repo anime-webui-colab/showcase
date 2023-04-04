@@ -8,9 +8,11 @@ subtitle: A feed of the updates here and on the <a href="https://github.com/NURO
 
 {% for post in site.posts %}
 <section>
-  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-  <i>{{ post.subtitle }}</i>
-  <small><i>{{ page.date }}</i></small>
+  <h4>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+  </h4>
+  <i>{{ post.excerpt }}</i>
+  <small>{{ post.date | date_to_string }}</small>
 </section>
 
 {% endfor %}
