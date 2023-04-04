@@ -3,9 +3,8 @@ permalink: /:title
 collections:
   models:
     output: true
-  posts:
+  updates:
     output: true
-    permalink: showcase/updates/:title
 
 defaults:
   - scope:
@@ -15,6 +14,6 @@ defaults:
       layout: "model-post"
   - scope:
       path: ""
-      type: "posts"
+      type: "updates"
     values:
       layout: "update-post"

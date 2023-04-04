@@ -1,6 +1,6 @@
 ---
 type: [general,site]
-title: "🎉Updates page created!"
+title: "🎉 Updates page created!"
 ---
 
 Haha yeah, we now having a patch notes kind of style in this site! + models history
