@@ -5,6 +5,7 @@ collections:
     output: true
   posts:
     output: true
+    permalink: showcase/updates/:title
 
 defaults:
   - scope:
