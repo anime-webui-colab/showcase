@@ -1,0 +1,11 @@
+---
+---
+
+{%- assign first_post = site.posts[0] -%}
+
+{
+    "schemaVersion": 1,
+    "label": "📢Updates",
+    "message": "{{ first_post.title }}",
+    "color": "informational"
+}
