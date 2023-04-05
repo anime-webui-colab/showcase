@@ -612,3 +612,24 @@ Grapefruit:
     fiyu: "https://cdn.discordapp.com/attachments/1092437535516541019/1092444611714240542/mL8.png"
     aoi: "https://cdn.discordapp.com/attachments/1092437535516541019/1092444612183986311/QZR.png"
     landscape: "https://cdn.discordapp.com/attachments/1092437535516541019/1092444612586651819/G2i.png"
+
+VOXO:
+  VOXO-v0:
+    fiyu: "https://cdn.discordapp.com/attachments/1093177487757942805/1093177488567451749/grid-0000.png"
+    aoi: "https://cdn.discordapp.com/attachments/1093177487757942805/1093177489460842678/grid-0001.png"
+    landscape: "https://cdn.discordapp.com/attachments/1093177487757942805/1093177490031263904/grid-0002.png"
+  VOXO-v0-vtuber:
+    fiyu: "https://cdn.discordapp.com/attachments/1093177487757942805/1093179712165126214/3Sg.png"
+    aoi: "https://cdn.discordapp.com/attachments/1093177487757942805/1093179712651669567/xit.png"
+    landscape: "https://cdn.discordapp.com/attachments/1093177487757942805/1093179713410846740/Yy9.png"
+    Hoshimachi Suisei: "https://cdn.discordapp.com/attachments/1093177487757942805/1093180258737459262/BG0.png"
+
+Dark Sushi Mix:
+  darkSushiMixMix_brighterPruned:
+    fiyu: "https://cdn.discordapp.com/attachments/1093184224317689916/1093184224770662560/grid-0000.png"
+    aoi: "https://cdn.discordapp.com/attachments/1093184224317689916/1093184225248817233/grid-0001.png"
+    landscape: "https://cdn.discordapp.com/attachments/1093184224317689916/1093184225865388142/grid-0002.png"
+  darkSushiMixMix_darkerPruned:
+    fiyu: "https://cdn.discordapp.com/attachments/1093184224317689916/1093185665103052820/YIY.png"
+    aoi: "https://cdn.discordapp.com/attachments/1093184224317689916/1093185665560223914/NvT.png"
+    landscape: "https://cdn.discordapp.com/attachments/1093184224317689916/1093185666352955422/LOd.png"
