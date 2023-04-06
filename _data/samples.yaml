@@ -325,6 +325,10 @@ MIX-Pro-V3:
     fiyu: "https://cdn.discordapp.com/attachments/1091366083535048704/1091367403851620402/sMX.png"
     aoi: "https://cdn.discordapp.com/attachments/1091366083535048704/1091367405026037791/35Z.png"
     landscape: "https://cdn.discordapp.com/attachments/1091366083535048704/1091367405692923965/en0.png"
+  MIX-Pro-V4:
+    fiyu: "https://cdn.discordapp.com/attachments/1091366083535048704/1093397004488556615/fKA.png"
+    aoi: "https://cdn.discordapp.com/attachments/1091366083535048704/1093397005050589225/ZYS.png"
+    landscape: "https://cdn.discordapp.com/attachments/1091366083535048704/1093397005625200640/M7S.png"
 
 Momocha Mix:
   momocha-6E7-0.315-AD-E6-0.15-WS:
@@ -513,6 +517,10 @@ Soul0000:
     fiyu: "https://cdn.discordapp.com/attachments/1091719164084883466/1091719164516913162/grid-0001.png"
     aoi: "https://cdn.discordapp.com/attachments/1091719164084883466/1091719165229928509/grid-0002.png"
     landscape: "https://cdn.discordapp.com/attachments/1091719164084883466/1091719165733261322/grid-0003.png"
+  underline0000:
+    fiyu: "https://cdn.discordapp.com/attachments/1091719164084883466/1093406148109008957/1Ro.png"
+    aoi: "https://cdn.discordapp.com/attachments/1091719164084883466/1093406148591366174/N1u.png"
+    landscape: "https://cdn.discordapp.com/attachments/1091719164084883466/1093406149031772170/ENV.png"
 
 Waifu Diffusion:
   wd-v1-3-float32:
