@@ -168,3 +168,7 @@ VOXO:
 Dark Sushi Mix:
   Colab: https://colab.research.google.com/github/NUROISEA/anime-webui-colab/blob/main/notebooks/dark_sushi_mix.ipynb
   Civitai [Aitasai]: https://civitai.com/models/24779
+
+CamelliaMix:
+  Colab: https://colab.research.google.com/github/NUROISEA/anime-webui-colab/blob/main/notebooks/camelliamix.ipynb
+  HuggingFace [Powidl43] (mirror): https://huggingface.co/Powidl43/CamelliaMix

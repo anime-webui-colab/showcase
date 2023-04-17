@@ -641,3 +641,37 @@ Dark Sushi Mix:
     fiyu: "https://cdn.discordapp.com/attachments/1093184224317689916/1093185665103052820/YIY.png"
     aoi: "https://cdn.discordapp.com/attachments/1093184224317689916/1093185665560223914/NvT.png"
     landscape: "https://cdn.discordapp.com/attachments/1093184224317689916/1093185666352955422/LOd.png"
+
+CamelliaMix:
+  CamelliaMix:
+    fiyu: "https://cdn.discordapp.com/attachments/1097155648820625538/1097155649156153425/grid-0000.png"
+    aoi: "https://cdn.discordapp.com/attachments/1097155648820625538/1097155649982451763/grid-0001.png"
+    landscape: "https://cdn.discordapp.com/attachments/1097155648820625538/1097155650527707218/grid-0002.png"
+  CamelliaMix_2.5D-fp16-pruned:
+    fiyu: "https://cdn.discordapp.com/attachments/1097155648820625538/1097157261555671090/yc3.png"
+    aoi: "https://cdn.discordapp.com/attachments/1097155648820625538/1097157262100938852/nvx.png"
+    landscape: "https://cdn.discordapp.com/attachments/1097155648820625538/1097157262646202528/0zd.png"
+  CamelliaMix_2.5D_v2:
+    fiyu: "https://cdn.discordapp.com/attachments/1097155648820625538/1097158756271390740/RhA.png"
+    aoi: "https://cdn.discordapp.com/attachments/1097155648820625538/1097158756841820241/ZQl.png"
+    landscape: "https://cdn.discordapp.com/attachments/1097155648820625538/1097158757420630186/Yg5.png"
+  CamelliaMix_Line-fp16-pruned:
+    fiyu: "https://cdn.discordapp.com/attachments/1097155648820625538/1097160435624575116/Tm1.png"
+    aoi: "https://cdn.discordapp.com/attachments/1097155648820625538/1097160436232761545/ipy.png"
+    landscape: "https://cdn.discordapp.com/attachments/1097155648820625538/1097160436740263956/BEP.png"
+  CamelliaMix_Line_v2:
+    fiyu: "https://cdn.discordapp.com/attachments/1097155648820625538/1097161886459502722/id6.png"
+    aoi: "https://cdn.discordapp.com/attachments/1097155648820625538/1097161886941855836/Iou.png"
+    landscape: "https://cdn.discordapp.com/attachments/1097155648820625538/1097161887403216976/8Z7.png"
+  CamelliaMix_NSFW:
+    fiyu: "https://cdn.discordapp.com/attachments/1097155648820625538/1097163291169673307/05b.png"
+    aoi: "https://cdn.discordapp.com/attachments/1097155648820625538/1097163291735887872/igl.png"
+    landscape: "https://cdn.discordapp.com/attachments/1097155648820625538/1097163292348272640/S5F.png"
+  CamelliaMix_NSFW_v1.1:
+    fiyu: "https://cdn.discordapp.com/attachments/1097155648820625538/1097164659443892245/Yoc.png"
+    aoi: "https://cdn.discordapp.com/attachments/1097155648820625538/1097164659884306615/FDs.png"
+    landscape: "https://cdn.discordapp.com/attachments/1097155648820625538/1097164660442136676/Mxq.png"
+  CamelliaMix_v2-fp16-pruned:
+    fiyu: "https://cdn.discordapp.com/attachments/1097155648820625538/1097166181305167962/oHW.png"
+    aoi: "https://cdn.discordapp.com/attachments/1097155648820625538/1097166182097899520/VXw.png"
+    landscape: "https://cdn.discordapp.com/attachments/1097155648820625538/1097166182597001316/2TH.png"
