@@ -137,6 +137,10 @@ Counterfeit:
     fiyu: "https://cdn.discordapp.com/attachments/1090273717004796044/1090278800446726194/Ppg.png"
     aoi: "https://cdn.discordapp.com/attachments/1090273717004796044/1090278800891314238/dHe.png"
     landscape: "https://cdn.discordapp.com/attachments/1090273717004796044/1090278801377869844/8al.png"
+  Counterfeit-V3.0_fp16:
+    fiyu: "https://cdn.discordapp.com/attachments/1090273717004796044/1102934516856782899/1Vc.png"
+    aoi: "https://cdn.discordapp.com/attachments/1090273717004796044/1102934517448196166/aSp.png"
+    landscape: "https://cdn.discordapp.com/attachments/1090273717004796044/1102934517850832946/1Cb.png"
 
 DrBob2142's Mix Models:
   Blossom-extract:
@@ -193,6 +197,14 @@ Eimis Anime Diffusion:
     fiyu: "https://cdn.discordapp.com/attachments/1090275050634088599/1090275050978017484/image.png"
     aoi: "https://cdn.discordapp.com/attachments/1090275050634088599/1090275051531685928/grid-0001.png"
     landscape: "https://cdn.discordapp.com/attachments/1090275050634088599/1090275052521525268/grid-0002.png"
+  EimisAnimeModel_2-0:
+    fiyu: "https://cdn.discordapp.com/attachments/1090275050634088599/1102942749055004713/w3D.png"
+    aoi: "https://cdn.discordapp.com/attachments/1090275050634088599/1102942749877096538/M1U.png"
+    landscape: "https://cdn.discordapp.com/attachments/1090275050634088599/1102942749877096538/M1U.png"
+  EimisAnimeModel_2-0_alternative:
+    fiyu: "https://cdn.discordapp.com/attachments/1090275050634088599/1102944186812080139/9ga.png"
+    aoi: "https://cdn.discordapp.com/attachments/1090275050634088599/1102944187374108722/Bvk.png"
+    landscape: "https://cdn.discordapp.com/attachments/1090275050634088599/1102944187919372418/Zrt.png"
 
 Elysium Anime:
   Elysium_Anime_V1:
