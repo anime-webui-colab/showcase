@@ -3,4 +3,15 @@
     A showcase of usable models for <a href="https://github.com/NUROISEA/anime-webui-colab">anime-webui-colab</a> | by
     NUROISEA
   </p>
+  <p>
+    {% if jekyll.environment == "development" %}
+    <a href="https://visitorbadge.io/status?path=127.0.0.1%3A4000%2Fnuroisea">
+      <img src="https://api.visitorbadge.io/api/combined?path=127.0.0.1%3A4000%2Fnuroisea&label=DEVELOPMENT_SITE&labelColor=%23ff8a65&countColor=%23ff8a65&style=flat-square&labelStyle=upper" />
+    </a>
+    {% else %}
+    <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fanime-webui-colab.github.io%2Fshowcase%2F">
+      <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fanime-webui-colab.github.io%2Fshowcase%2F&label=visits%20today%20%2F%20all&countColor=%23555555&style=flat-square&labelStyle=lower" />
+    </a>
+    {% endif %}
+  </p>
 </footer>
