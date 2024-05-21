@@ -4,64 +4,22 @@ title: "Model List"
 permalink: /model-list
 subtitle: All of the models will be shown here along side with their samples :)
 ---
-{%- include sample-notice.html %}
-{%- assign repos = site.data.samples | sort %}
 
-<h1>Table of Contents</h1>
-<details>
-  <summary>📑 Page Contents</summary>
-  <ol>
-    {%- for repo in repos %}
-    {%- assign model_title = repo[0] %}
-    {%- assign models = repo[1] %}
-    <li>
-      <a href="#{{ model_title | slugify }}">{{ model_title }}</a>
-      <ol>
-        {%- for model in models %}
-        {%- assign model_name = model[0] %}
-        <li>
-          <a href="#{{ model_title | slugify }}-{{ model_name | slugify }}">
-            {{ model_name }}
-          </a>
-        </li>
-        {%- endfor %}
-      </ol>
-    </li>
-    {%- endfor %}
-  </ol>
-</details>
-{%- for repo in repos %}
-{%- assign model_title = repo[0] %}
-{%- assign models = repo[1] %}
-<h2 id="{{ model_title | slugify }}">{{ model_title }}</h2>
-<details>
-  <summary>🌐 Links</summary>
-  {%- assign links = site.data.links[model_title] %}
-  <ul>
-    {%- for link in links %}
-    {%- if link[0] == "Colab" %}
-    <li>
-      <a href="{{ link[1] }}"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
-    </li>
-    {%- else %}
-    <li>
-      <a href="{{ link[1] }}">{{ link[0] }}</a>
-    </li>
-    {%- endif %}
-    {%- endfor %}
-  </ul>
-</details>
-{%- for model in models %}
-{%- assign model_name = model[0] %}
-<details id="{{ model_title | slugify }}-{{ model_name | slugify }}">
-  <summary>{{ model_name }}</summary>
-  {%- for sample in model[1] %}
-  <details>
-    <summary>{{sample[0] | capitalize}}</summary>
-    {%- assign image_url = sample[1] %}
-    {%- include image-to-original.html image-link=image_url %}
-  </details>
-  {%- endfor %}
-</details>
-{%- endfor %}
-{%- endfor %}
+<h1>Go to my "new" <a href="https://nuroisea.github.io/list/samples.html">samples/showcase page</a></h1>
+
+<p>Go bookmark that, i guess xd</p>
+
+<p>I will eventually move that to here, but im kinda lazy at the moment, so there's that :P</p>
+
+<p>Oh, you'll be redirected to that page automatically in like 15 seconds.</p>
+
+<h1>Here's the new showcase link again:</h1>
+<h1>https://nuroisea.github.io/list/samples.html</h1>
+
+<script>
+
+setTimeout(function() {
+  window.location.href = "https://nuroisea.github.io/list/samples.html";
+}, 15000);
+
+</script>
